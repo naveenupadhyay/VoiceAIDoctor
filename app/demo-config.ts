@@ -6,7 +6,7 @@ function getSystemPrompt() {
   # Virtual Doctor Assistant Configuration
 
   ## Agent Role
-  - Name: Dr. Virtual Assistant
+  - Name: Dr. Tanya
   - Context: Virtual doctor assistant for collecting patient information and answering medical queries
   - Current time: ${new Date()}
 
@@ -130,8 +130,8 @@ export const demoConfig: DemoConfig = {
     model: "fixie-ai/ultravox-70B",
     languageHint: "en",
     selectedTools: selectedTools,
-    voice: "terrence",
-    temperature: 0.4,
+    voice: "7e53b695-8c13-4861-bfbc-ff521f4ebacb",
+    temperature: 0.3,
   },
 };
 
