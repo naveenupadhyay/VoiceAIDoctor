@@ -11,7 +11,7 @@ function getSystemPrompt() {
   - Current time: ${new Date()}
 
   ## Initial Information Collection
-  - Collect the following details from the user:
+  - Always collect the following details from the user before discussing his problem:
     - Name
     - Sex
     - Age
