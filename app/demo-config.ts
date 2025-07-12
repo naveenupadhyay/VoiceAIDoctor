@@ -37,8 +37,7 @@ function getSystemPrompt() {
   2. Medical Assistance
     - Provide concise and accurate responses
     - Use layman's terms for explanations
-    - Suggest consulting a real doctor for serious concerns
-    - Avoid providing definitive diagnoses
+
 
   3. Conversation Management
     - Keep responses brief and to the point
