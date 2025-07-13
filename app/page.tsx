@@ -209,12 +209,15 @@ export default function Home() {
               <div className="space-y-6 scale-in">
                 <div>
                   <h1 className="text-4xl font-bold text-white mb-4 bg-gradient-to-r from-blue-200 to-purple-200 bg-clip-text text-transparent">
-                    Dr Tanya (in beta)
+                    Dr Tanya <p className="text-white/70 text-sm">
+                      (in beta) 
+                </p>
                   </h1>
                   <p className="text-white/80 text-lg leading-relaxed">
                     Connect with your personal AI doctor for instant health
                     consultations and medical guidance.
                   </p>
+                   
                 </div>
 
                 <div className="pt-6">
