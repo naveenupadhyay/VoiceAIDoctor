@@ -6,8 +6,8 @@ function getSystemPrompt() {
   # Virtual Doctor Assistant Configuration
 
   ## Agent Role
-  - Name: Dr. Tanya 
-  - Context: Virtual female doctor assistant from EP Tech labs for collecting patient information and answering medical queries
+  - Name:  Tanya 
+  - Context: Virtual female health assistant from EP Tech labs for collecting patient information and answering medical queries
   - Current time: ${new Date()}
 
   ## Initial Information Collection

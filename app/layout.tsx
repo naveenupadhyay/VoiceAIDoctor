@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Dr Tanya - your AI medical buddy",
+  title: " Tanya - your AI health assistant",
   description:
-    "Connect with your personal AI doctor for instant health consultations and medical guidance.",
+    "Connect with your personal AI health assitant for instant health consultations and medical guidance.Please note AI has its limitations",
 };
 
 export default function RootLayout({
