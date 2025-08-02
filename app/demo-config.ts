@@ -13,10 +13,8 @@ function getSystemPrompt() {
   ## Initial Information Collection
   - Collect the following details from the user:
     - Name
-    - Sex
     - Age
-    - Weight
-    - Height
+    - Sex
     - Any known medical conditions
     - Current symptoms or concerns
 
