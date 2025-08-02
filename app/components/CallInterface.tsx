@@ -165,7 +165,7 @@ export default function CallInterface({
         <div className="p-6 border-b border-white/10">
           <div className="flex items-center justify-between">
             <div>
-              <h2 className="text-2xl font-bold text-white">AI Doctor Call</h2>
+              <h2 className="text-2xl font-bold text-white">AI health assistant call</h2>
               <div className="flex items-center mt-2">
                 <div className="w-3 h-3 bg-green-400 rounded-full animate-pulse mr-2"></div>
                 <span className="text-green-200 text-sm font-medium">
