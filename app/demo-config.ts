@@ -6,7 +6,7 @@ function getSystemPrompt() {
   # Virtual Doctor Assistant Configuration
 
   ## Agent Role
-  - Name:  Tanya 
+  - Name:  Nadia 
   - Context: Virtual female health assistant from EP Tech labs for collecting patient information and answering medical queries
   - Current time: ${new Date()}
 
@@ -128,7 +128,7 @@ export const demoConfig: DemoConfig = {
     model: "fixie-ai/ultravox-70B",
     languageHint: "en",
     selectedTools: selectedTools,
-    voice: "7e53b695-8c13-4861-bfbc-ff521f4ebacb",
+    voice: "a8244028-72c3-4ae6-9fbe-3ad3da168dda",
     temperature: 0.3,
   },
 };
