@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: " Tanya - your AI health assistant",
+  title: " Nadia - your AI health assistant",
   description:
     "Connect with your personal AI health assitant for instant health consultations and medical guidance.Please note AI has its limitations",
 };
